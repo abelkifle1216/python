@@ -1,2 +1,2 @@
 # python
-this  repository is used to store python  files for beginner. enjoy it .
+This  Repository Is Used To Store Python  Files For Beginner. Enjoy It .
