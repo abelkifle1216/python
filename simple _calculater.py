@@ -46,5 +46,5 @@ def main():
                 print(f"Result: {num1} / {num2} = {result}")
         else:
             print("Invalied choice! please select  a valid option. ")
-if __name__== "_main_":
-    main()       
+if __name__== "__main__":
+ main()       
